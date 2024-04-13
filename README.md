@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Ask me about ... ##Terraform and DevOps
+- 💬 Ask me about: ## DevOps
 - 📫 How to reach me: [Abhinav Tripathi](https://www.linkedin.com/in/abhinavtripathi14)
